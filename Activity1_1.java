@@ -3,8 +3,10 @@ package session1;
 public class Activity1_1 {
 
     public static void main(String[] args) {
+
+		
 	    // Object initialization
-	    Car toyota = new Car();
+	    Car Honda= new Car();  //commanded by ganesh
 		// Add default values
 	    toyota.make = 2015;
 	    toyota.color = "White";
