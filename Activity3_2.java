@@ -14,7 +14,7 @@ public class Activity3_2 {
         hs.add("X");
         
         //Print HashSet
-        System.out.println("Original HashSet: " + hs);        
+        System.out.println("Original HSet: " + hs);        
         //Print size of HashSet
         System.out.println("Size of HashSet: " + hs.size());
         
