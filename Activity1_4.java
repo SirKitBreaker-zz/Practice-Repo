@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 class Activity1_4 {
     static void ascendingSort(int array[]) {
-        int size = array.length, i;
+        int size = array.length, i,j;
         
         for (i = 1; i < size; i++) {
             int key = array[i];
