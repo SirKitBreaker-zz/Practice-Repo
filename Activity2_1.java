@@ -29,7 +29,7 @@ public class Activity2_1{
 		//Set title
 		newNovel.setTitle(title);
 		
-		//Print result
+		//Print result in console
 		System.out.println("The title is: " + newNovel.getTitle());
 	}
 }
