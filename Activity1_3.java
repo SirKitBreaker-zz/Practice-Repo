@@ -20,7 +20,7 @@ public class Activity1_3 {
         System.out.println("Age on Jupiter: " + seconds / EarthSeconds / JupiterSeconds);
         System.out.println("Age on Saturn: " + seconds / EarthSeconds / SaturnSeconds);
         System.out.println("Age on Uranus: " + seconds / EarthSeconds / UranusSeconds);
-        System.out.println("Age on Neptune: " + seconds / EarthSeconds / NeptuneSeconds);
+        System.out.println("Age on pluto: " + seconds / EarthSeconds / NeptuneSeconds);
     }
 
 }
