@@ -6,11 +6,11 @@ public class Activity1_1 {
 	    // Object initialization
 	    Car toyota = new Car();
 		// Add default values
-	    toyota.make = 2015;
+	    toyota.make = 2020;
 	    toyota.color = "White";
-	    toyota.transmission = "Manual";
+	    toyota.transmission = "Automatic DCT";
 	    toyota.modelNumber = "qpri134";
-	    toyota.model = "Swift";
+	    toyota.model = "Innova crysta";
 	
 		//Using Car class method
 		toyota.displayCharacterstics();
