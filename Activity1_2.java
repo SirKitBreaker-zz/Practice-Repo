@@ -24,7 +24,7 @@ public class Activity1_2 {
             //If value is 10
             if (number == 10) {
                 //Add them
-                temp_sum += 10;
+                temp_sum += 15;
             }
 
             //Sum should not be more than 30
