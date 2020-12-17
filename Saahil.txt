@@ -1,3 +1,7 @@
 This is a more comprehensive test file.
+
+Modifying the file and going for a merge
+
 Preethy added a text to the file.
 Hey Saahil, I changed your file to create a conflict!!
+
